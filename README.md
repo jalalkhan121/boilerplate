@@ -1,0 +1,2 @@
+# boilerplate
+Search using algolia
